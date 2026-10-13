@@ -1,6 +1,0 @@
-{
-  "name": "Pisang Melt - Renyah & Lumer",
-  "description": "Platform pemasaran digital dan pemesanan online Pisang Melt renyah dengan varian Pisang Crispy Cokelat, Keju, Cokelat Keju, serta Pisang Nugget istimewa.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
